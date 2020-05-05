@@ -11,8 +11,6 @@ export default function Routes() {
     return (
         <Router>
             <div className="App">
-
-
                 <div className="auth-wrapper">
                     <div className="auth-inner">
                         <Switch>

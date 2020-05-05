@@ -3,5 +3,7 @@
 }
 
 .header-form {
+    display: flex;
+    justify-content: space-between;
     font-size: 25px;
 }
